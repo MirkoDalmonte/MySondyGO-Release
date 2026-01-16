@@ -1,0 +1,167 @@
+
+# <center><img src="images/titolo.gif" alt="MySondyGO" style="width:350px;">
+
+🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
+
+**MySondy GO** is a project that allows receiving, decoding, and visualizing signals from **weather radiosondes** (e.g., RS41) using a **TTGO LoRa32 433 MHz board** (ESP32) and a dedicated mobile app.
+
+It consists of:  
+✔ A **firmware** to upload to the TTGO board  
+✔ A **mobile app** for viewing and controlling via Bluetooth  
+✔ Documentation and installation instructions  
+✔ Releases maintained by **Mirko Dalmonte (IZ4PNN)** with other contributors.
+
+
+
+<center><img src="images/spot.gif" alt="MySondyGO" style="width:350px;">
+
+
+
+---
+
+## 🔧 Main Features
+
+✅ Works with **TTGO LoRa32 433 MHz**  
+✅ Decodes radiosonde signals  
+✅ Bluetooth connection to smartphone  
+✅ Real-time data and telemetry visualization  
+✅ BLE support also for iOS (recent versions)  
+✅ Firmware updatable directly from the app (Android devices only).
+
+---
+
+## 📡 Components
+
+### 🛠 Required Hardware
+
+<img src="images/ttgo1.jpg" alt="TTGO" width="300">
+
+- **TTGO LoRa32 433 MHz** (ESP32 + LoRa)  
+  🔗 https://www.aliexpress.com/item/1005009178059360.html
+  
+- PC for flashing firmware (Windows, Mac, Linux)  
+- USB cable to connect the device  
+- (Optional) External antenna for better reception. 
+
+### 📱 Software
+
+#### 📲 Mobile App
+
+<img src="images/mysondygo.png" alt="MySondyGO" style="width:150px;">
+
+The **MySondy GO app** is available on:
+
+- **Android** → Google Play Store  
+- **iOS / iPadOS** → Apple App Store  
+
+The app allows you to:  
+- Search for the device via Bluetooth  
+- Set frequency and radiosonde type  
+- Visualize data as it is received
+
+#### 🧰 Firmware
+
+The TTGO firmware receives radio signals and sends them via Bluetooth to the app.  
+Firmware is available for download on the official project site and on this public repo:
+
+<a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO.zip">🔗 THE LATEST FIRMWARE BIN</a>
+
+
+<a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO-FULL.zip">🔗 LATEST FIRMWARE, MANUALS, TOOLS</a>
+
+
+🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
+
+---
+
+## 🚀 Installation
+
+### 1. Hardware setup
+
+1. Connect the **TTGO LoRa32** board to your PC via USB  
+2. Install necessary drivers (e.g., CP2102 / CH340)  
+3. Install flash_download_tool or esptool (command line)
+
+### 2. Flash the firmware
+
+Upload the firmware using:
+
+- **flash_download_tool**
+ 
+  (This repo provides all the information to flash the TTGO with the latest available firmware).
+ 
+
+- or **esptool.py** via command line  
+  esptool.py --chip esp32 --port /dev/ttyUSB0 write_flash 0x0000 MySondyGO.bin
+  
+  (Replace /dev/ttyUSB0 with the correct port on your system (COMx on Windows).
+
+  
+### 3. Launch the app
+
+1. Open the MySondy GO app  
+2. Turn on Bluetooth  
+3. Turn on TTGO (no pair required)
+4. Set the frequency and radiosonde type
+
+---
+
+## 🗂 Repository Structure
+
+This repository contains:
+
+📦 **Firmware Only** for TTGO LoRa32:
+   <a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO.zip">MySondyGO.zip</a>
+   
+  (MySondyGO.zip contains the firmware ONLY).  
+
+📦 **Complete package** for TTGO LoRa32:
+   <a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO-FULL.zip">MySondyGO-FULL.zip</a>
+
+   (MySondyGO-FULL.zip contains everything you need to flash the TTGO: firmware, software, drivers and manuals).
+   
+---
+
+## 📥 Download
+
+All documentation, firmware binaries, manuals are available on this repo and on the official project site:
+
+🔗 [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
+
+🔗  Official website & download: https://mysondy.altervista.org/mysondygo.php
+
+---
+
+## 📡 Contributors & Credits
+
+Main contributor:  
+**Mirko Dalmonte (IZ4PNN)**  
+Collaborators:  
+Aldo Moroni (IW2DZX), Jordan Antonio Provesi (IZ2ZUZ),  
+Achille De Santis (IU0EUF), Anthony Le Cren (F4GOH)
+
+---
+
+## 📎 Useful Links
+
+🔗 Official website & download: https://mysondy.altervista.org/mysondygo.php  
+
+🔗 Support forum: https://mysondy.altervista.org/Forum/
+
+🔗 Link to buy: https://www.aliexpress.com/item/1005009178059360.html
+
+## 📲 MySondy GO App Download
+
+<a href="https://play.google.com/store/apps/details?id=org.mysondy.altervista.mysondygo" target="_blank"><img style ="width: 250px;" alt="Google Play" src="images/google-play.png"/></a>
+
+<a href="https://apps.apple.com/it/app/mysondy-go/id6744840307" target="_blank"><img style ="width: 250px;" alt="Apple App Store" src="images/app-store.png"/></a>
+
+## DONATIONS
+
+**If you like our work, please buy us a beer!**
+
+<center>
+<a style="text-decoration:none" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=dal.mirko@gmail.com&lc=US&no_note=0&item_name=MySondy+Projects&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&return=https://mysondy.altervista.org?pay=1">
+<img src="images/paypalbut.png" alt="PayPal" style="width:350px;">
+</a>
+</center>
