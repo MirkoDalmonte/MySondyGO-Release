@@ -26,7 +26,7 @@ It consists of:
 ✅ Bluetooth connection to smartphone  
 ✅ Real-time data and telemetry visualization  
 ✅ BLE support also for iOS (recent versions)  
-✅ Firmware updatable directly from the app (Android devices only).
+✅ Firmware updatable directly from the app.
 
 ---
 
