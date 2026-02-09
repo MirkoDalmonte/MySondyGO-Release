@@ -30,7 +30,8 @@ reverse-engineering work.
 
 No third-party radiosonde decoding source code has been copied, linked, or
 derived. All decoding logic, frame parsing, data handling, and protocol
-processing have been implemented independently by the author.
+processing have been implemented independently by the author and some
+contributors.
 
 This software is not affiliated with, endorsed by, or derived from any
 radiosonde manufacturer or third-party decoder project.
