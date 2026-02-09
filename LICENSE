@@ -43,6 +43,10 @@ REFERENCES
 Protocol understanding and decoding concepts are based on publicly available
 documentation and community technical resources, including but not limited to:
 
+- https://github.com/einergehtnochrein/ra-firmware
+- https://github.com/oe5hpm/dxlAPRS
+- https://github.com/dl9rdz/rdz_ttgo_sonde
+- https://github.com/rs1729/RS
 - https://github.com/bazjo/RS41_Decoding
 - publicly available Vaisala RS41 documentation
 - General digital communication textbooks, academic papers, and publicly
