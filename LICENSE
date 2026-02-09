@@ -30,7 +30,7 @@ reverse-engineering work.
 
 No third-party radiosonde decoding source code has been copied, linked, or
 derived. All decoding logic, frame parsing, data handling, and protocol
-processing have been implemented independently by the author and some
+processing have been implemented independently by the author and project
 contributors.
 
 This software is not affiliated with, endorsed by, or derived from any
@@ -44,12 +44,12 @@ Protocol understanding and decoding concepts are based on publicly available
 documentation and community technical resources, including but not limited to:
 
 - https://github.com/bazjo/RS41_Decoding
-- Vaisala RS41 public user documentation
+- publicly available Vaisala RS41 documentation
 - General digital communication textbooks, academic papers, and publicly
-  available SDR and radio-amateur community resource
+  available SDR and radio-amateur community resources
 
-These references are provided for attribution and transparency only and do not
-imply inclusion of third-party source code.
+These references are provided for attribution, transparency, and informational
+purposes only and do not imply inclusion of third-party source code.
 
 ======================================================================
 THIRD-PARTY SOFTWARE LICENSES
