@@ -21,7 +21,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ======================================================================
-IMPLEMENTATION NOTES – RADIOSONDE DECODING
+IMPLEMENTATION NOTES - RADIOSONDE DECODING
 ======================================================================
 
 This project implements an original radiosonde decoding pipeline based on
@@ -62,7 +62,7 @@ THIRD-PARTY SOFTWARE LICENSES
 
 ----------------------------------------------------------------------
 U8g2 / U8x8 Graphics Library
-Copyright (c) 2016–2024 olikraus
+Copyright (c) 2016-2024 olikraus
 ----------------------------------------------------------------------
 
 BSD 2-Clause License
