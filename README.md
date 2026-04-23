@@ -113,6 +113,10 @@ This repository contains:
 📦 **Complete package** for TTGO LoRa32:
 
    MySondyGO-FULL contains everything you need to flash the TTGO: firmware, software, drivers and manuals.
+
+📦 **API** for TTGO LoRa32:
+
+   MySondyGo-API contains everything for developers.
    
 ---
 
