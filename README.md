@@ -66,12 +66,6 @@ The app allows you to:
 The TTGO firmware receives radio signals and sends them via Bluetooth to the app.  
 Firmware is available for download on the official project site and on this public repo:
 
-<a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO.zip">🔗 THE LATEST FIRMWARE BIN</a>
-
-
-<a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO-FULL.zip">🔗 LATEST FIRMWARE, MANUALS, TOOLS</a>
-
-
 🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
 
 ---
@@ -113,14 +107,12 @@ Upload the firmware using:
 This repository contains:
 
 📦 **Firmware Only** for TTGO LoRa32:
-   <a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO.zip">MySondyGO.zip</a>
-   
-  (MySondyGO.zip contains the firmware ONLY).  
+
+   MySondyGO contains the firmware ONLY.  
 
 📦 **Complete package** for TTGO LoRa32:
-   <a href="https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest/download/MySondyGO-FULL.zip">MySondyGO-FULL.zip</a>
 
-   (MySondyGO-FULL.zip contains everything you need to flash the TTGO: firmware, software, drivers and manuals).
+   MySondyGO-FULL contains everything you need to flash the TTGO: firmware, software, drivers and manuals.
    
 ---
 
