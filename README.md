@@ -1,6 +1,8 @@
 
 # <center><img src="images/titolo.gif" alt="MySondyGO" style="width:350px;">
 
+![version](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)
+
 🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
 
 **MySondy GO** is a FREE project that allows receiving, decoding, and visualizing signals from **weather radiosondes** (e.g., RS41) using a **TTGO LoRa32 433 MHz board** (ESP32) and a dedicated mobile app.
