@@ -1,10 +1,4 @@
-<table bgcolor="white">
-<tr>
-<td>
-<img src="images/titolo.gif" alt="MySondyGO" width="350">
-</td>
-</tr>
-</table>
+# <center><img src="images/titolo.gif" alt="MySondyGO" style="width:350px;">
 
 🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
 
