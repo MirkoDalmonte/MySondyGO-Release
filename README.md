@@ -1,5 +1,8 @@
 
-# <center><img src="images/titolo.gif" alt="MySondyGO" style="width:350px;">
+# <center>
+<div style="display:inline-block; background:white; padding:12px; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+    <img src="images/titolo.gif" alt="MySondyGO" style="width:350px;">
+</div>
 
 🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
 
