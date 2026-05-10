@@ -1,4 +1,4 @@
-# <center><img src="images/titolo.gif" alt="MySondyGO" style="width:350px;">
+# <center><img src="images/titoloOk.gif" alt="MySondyGO" style="width:350px;">
 
 🔗  [![Latest Release](https://img.shields.io/github/v/release/MirkoDalmonte/MySondyGO-Release)](https://github.com/MirkoDalmonte/MySondyGO-Release/releases/latest)
 
