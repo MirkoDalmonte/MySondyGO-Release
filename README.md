@@ -6,8 +6,8 @@
 
 It consists of:  
 ✔ A **firmware** to upload to the TTGO board  
-✔ A **mobile app** for viewing and controlling via Bluetooth
-✔ A **Apple Watch app** for viewing and controlling via Bluetooth in standalone or companion mode
+✔ A **mobile app** for viewing and controlling via Bluetooth  
+✔ An **Apple Watch app** for viewing and controlling via Bluetooth in standalone or companion mode  
 ✔ Documentation and installation instructions  
 ✔ Releases maintained by **Mirko Dalmonte (IZ4PNN)** with other contributors.
 
