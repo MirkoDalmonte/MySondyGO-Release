@@ -11,11 +11,15 @@ It consists of:
 ✔ Documentation and installation instructions  
 ✔ Releases maintained by **Mirko Dalmonte (IZ4PNN)** with other contributors.
 
-<center><img src="images/applewatch-1.png" alt="MySondyGO" style="width:250px;">
+<center><img src="images/applewatch-1.png" alt="MySondyGO apple watch" style="width:250px;">
+
+<img src="images/applewatch-2.png" alt="MySondyGO apple watch" style="width:250px;">
 
 
 
-<center><img src="images/spot.gif" alt="MySondyGO" style="width:350px;">
+
+
+<img src="images/spot.gif" alt="MySondyGO" style="width:350px;">
 
 
 
