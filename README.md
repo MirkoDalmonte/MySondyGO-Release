@@ -29,9 +29,8 @@ It consists of:
 
 ✅ Works with **TTGO LoRa32 433 MHz**  
 ✅ Decodes radiosonde signals  
-✅ Bluetooth connection to smartphone  
+✅ Bluetooth connection to smartphone and/or Apple Watch  
 ✅ Real-time data and telemetry visualization  
-✅ BLE support also for iOS (recent versions)  
 ✅ Firmware updatable directly from the app.
 
 ---
@@ -60,8 +59,7 @@ It consists of:
 The **MySondy GO app** is available on:
 
 - **Android** → Google Play Store  
-- **iOS / iPadOS** → Apple App Store  
-
+- **iOS / iPadOS / WatchOS** → Apple App Store  
 The app allows you to:  
 - Search for the device via Bluetooth  
 - Set frequency and radiosonde type  
