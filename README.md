@@ -6,9 +6,12 @@
 
 It consists of:  
 ✔ A **firmware** to upload to the TTGO board  
-✔ A **mobile app** for viewing and controlling via Bluetooth  
+✔ A **mobile app** for viewing and controlling via Bluetooth
+✔ A **Apple Watch app** for viewing and controlling via Bluetooth in standalone or companion mode
 ✔ Documentation and installation instructions  
 ✔ Releases maintained by **Mirko Dalmonte (IZ4PNN)** with other contributors.
+
+<center><img src="images/applewatch-1.png" alt="MySondyGO" style="width:250px;">
 
 
 
