@@ -160,7 +160,7 @@ Achille De Santis (IU0EUF), Anthony Le Cren (F4GOH)
 
 <a href="https://apps.apple.com/it/app/mysondy-go/id6744840307" target="_blank"><img style ="width: 250px;" alt="Apple App Store" src="images/app-store.png"/></a>
 
-<a href="https://apps.apple.com/it/app/mysondy-go/id6744840307" target="_blank"><img style ="width: 250px;" alt="Apple App Store" src="images/applewatch.png"/></a>  
+<a href="https://apps.apple.com/it/app/mysondy-go/id6744840307" target="_blank"><img style ="width: 250px;" alt="Apple App Store" src="images/applewatchOk.png"/></a>  
 
 ## DONATIONS
 
