@@ -167,7 +167,7 @@ Achille De Santis (IU0EUF), Anthony Le Cren (F4GOH)
 **If you like our work, please buy us a beer!**
 
 <center>
-<a style="text-decoration:none" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=dal.mirko@gmail.com&lc=US&no_note=0&item_name=MySondy+Projects&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&return=https://mysondy.altervista.org?pay=1">
+<a style="text-decoration:none" href="https://www.paypal.com/donate/?hosted_button_id=A5C45U64R4RBL">
 <img src="images/paypalbut.png" alt="PayPal" style="width:350px;">
 </a>
 </center>
