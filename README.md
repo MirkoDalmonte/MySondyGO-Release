@@ -146,6 +146,10 @@ Achille De Santis (IU0EUF), Anthony Le Cren (F4GOH)
 
 ## 📎 Useful Links
 
+Project infrastructure
+MySondy projects are developed and supported by Mirko Dalmonte (IZ4PNN) and operate as part of a broader self-managed infrastructure.
+Infrastructure: https://www.dalmonte.win
+
 🔗 Official website & download: https://mysondy.altervista.org/mysondygo.php  
 
 🔗 Support forum: https://mysondy.altervista.org/Forum/
